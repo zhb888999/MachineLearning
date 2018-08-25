@@ -1,3 +1,10 @@
+##
+# @file kNN.py
+# @brief 
+# @author Mking
+# @version 0.1
+# @date 2018-08-25
+
 from numpy import *
 import operator
 
